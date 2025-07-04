@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chic Threads - Your Destination for Trendy Fashion</title>
+    <meta name="description" content="Discover the latest trends in fashion at Chic Threads. Shop our exquisite collection of men's and women's apparel, accessories, and footwear. Find your perfect style today!">
+    <meta name="keywords" content="fashion, online fashion store, trendy clothing, men's fashion, women's fashion, apparel, accessories, footwear, stylish clothes, new arrivals">
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <nav>
+            <a href="store.html" class="logo">Chic Threads</a>
+            <ul>
+                <li><a href="#new-arrivals">New Arrivals</a></li>
+                <li><a href="#women-collection">Women's</a></li>
+                <li><a href="#men-collection">Men's</a></li>
+                <li><a href="#accessories">Accessories</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Elevate Your Style with Chic Threads - The Ultimate Fashion Destination</h1>
+            <p>Step into the world of **Chic Threads**, where the latest **fashion trends** meet timeless elegance. We offer a curated selection of high-quality **apparel, accessories**, and **footwear** for both men and women. Whether you're looking for the perfect outfit for a special occasion or updating your everyday wardrobe, our **online fashion store** has something for everyone.</p>
+            <a href="#new-arrivals" class="btn">Shop New Arrivals</a>
+        </section>
+
+        <hr>
+
+        <section id="new-arrivals" class="section-padded">
+            <h2>Discover Our Fresh & Trendy New Arrivals</h2>
+            <div class="product-grid">
+                <div class="product-item">
+                    <img src="images/new_dress.jpg" alt="Stylish new arrival floral dress" width="300" height="400">
+                    <h3>Floral Summer Dress</h3>
+                    <p>Embrace the season with our **trendy** new floral summer dress. Perfect for any casual outing.</p>
+                    <a href="#" class="btn-small">View Details</a>
+                </div>
+                <div class="product-item">
+                    <img src="images/men_shirt.jpg" alt="Men's casual linen shirt" width="300" height="400">
+                    <h3>Men's Linen Shirt</h3>
+                    <p>Comfort and style combined in our new **men's fashion** linen shirt.</p>
+                    <a href="#" class="btn-small">View Details</a>
+                </div>
+                <div class="product-item">
+                    <img src="images/accessories_bag.jpg" alt="Elegant women's handbag" width="300" height="400">
+                    <h3>Elegant Handbag</h3>
+                    <p>Complete your look with our latest **fashion accessory** handbag.</p>
+                    <a href="#" class="btn-small">View Details</a>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="women-collection" class="section-padded">
+            <h2>Chic Women's Fashion Collection</h2>
+            <p>Our **women's fashion** collection is designed to empower and inspire. From elegant dresses to comfortable everyday wear, find your unique **style** at Chic Threads. We are constantly updating our inventory with the latest **fashion** pieces to keep you ahead of the curve.</p>
+            <div class="product-grid">
+                <div class="product-item">
+                    <img src="images/women_jeans.jpg" alt="Women's high-waisted jeans" width="300" height="400">
+                    <h3>High-Waisted Jeans</h3>
+                    <p>Classic and versatile, a must-have for any **women's apparel** collection.</p>
+                    <a href="#" class="btn-small">Shop Now</a>
+                </div>
+                <div class="product-item">
+                    <img src="images/women_blouse.jpg" alt="Stylish women's silk blouse" width="300" height="400">
+                    <h3>Silk Blouse</h3>
+                    <p>Add a touch of sophistication with our premium **women's fashion** silk blouse.</p>
+                    <a href="#" class="btn-small">Shop Now</a>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="men-collection" class="section-padded">
+            <h2>Sophisticated Men's Fashion Apparel</h2>
+            <p>Explore our refined **men's fashion** collection, featuring everything from sharp suits to casual everyday wear. At Chic Threads, we believe in providing **men's apparel** that combines comfort, quality, and undeniable style. Discover the perfect additions to your **wardrobe** today.</p>
+            <div class="product-grid">
+                <div class="product-item">
+                    <img src="images/men_suit.jpg" alt="Men's formal business suit" width="300" height="400">
+                    <h3>Tailored Suit</h3>
+                    <p>Make a statement with our impeccably tailored **men's fashion** suit.</p>
+                    <a href="#" class="btn-small">Shop Now</a>
+                </div>
+                <div class="product-item">
+                    <img src="images/men_tshirt.jpg" alt="Men's graphic print t-shirt" width="300" height="400">
+                    <h3>Graphic T-Shirt</h3>
+                    <p>Casual cool with our range of **trendy** graphic t-shirts for men.</p>
+                    <a href="#" class="btn-small">Shop Now</a>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section id="accessories" class="section-padded">
+            <h2>Enhance Your Look with Our Fashion Accessories</h2>
+            <p>No **fashion** ensemble is complete without the right **accessories**. Browse our diverse range of bags, jewelry, scarves, and more to add that perfect finishing touch to your **trendy** look. Our **fashion accessories** are carefully selected to complement our clothing collections.</p>
+            <div class="product-grid">
+                <div class="product-item">
+                    <img src="images/jewelry.jpg" alt="Elegant necklace and earrings set" width="300" height="400">
+                    <h3>Statement Jewelry</h3>
+                    <p>Dazzle with our beautiful **fashion jewelry** collection.</p>
+                    <a href="#" class="btn-small">Shop Now</a>
+                </div>
+                <div class="product-item">
+                    <img src="images/scarf.jpg" alt="Colorful silk scarf" width="300" height="400">
+                    <h3>Silk Scarf</h3>
+                    <p>Add a pop of color with our luxurious silk **fashion** scarves.</p>
+                    <a href="#" class="btn-small">Shop Now</a>
+                </div>
+            </div>
+        </section>
+
+        <hr>
+
+        <section class="about-us">
+            <h2>About Chic Threads - Your Trusted Online Fashion Store</h2>
+            <p>At **Chic Threads**, we are passionate about bringing you the best in **fashion**. We believe that everyone deserves to feel confident and stylish. Our commitment to quality, customer satisfaction, and keeping up with the latest **trends** makes us a leading destination for **online fashion**. Explore our collections and experience the difference!</p>
+            <p>For more **fashion** insights and styling tips, check out reputable sources like <a href="https://www.vogue.com/" target="_blank" rel="noopener noreferrer">Vogue</a> – a high-authority site in the fashion industry.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Chic Threads. All rights reserved.</p>
+        <p><a href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms of Service</a></p>
+    </footer>
+</body>
+</html>
